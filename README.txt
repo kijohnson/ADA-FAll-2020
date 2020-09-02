@@ -1,1 +1,1 @@
-This site is for ADA Fall 2020.
+This site is set up for ADA Fall 2020. 
